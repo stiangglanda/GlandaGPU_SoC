@@ -1,0 +1,3 @@
+[submodule "ip/GlandaGPU"]
+	path = ip/GlandaGPU
+	url = https://github.com/stiangglanda/GlandaGPU.git
